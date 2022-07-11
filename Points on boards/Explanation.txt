@@ -1,0 +1,4 @@
+One file for each position of the 8 virtual boards (detection plane).
+Column 1: rotation first mirror
+Column 2: rotation second mirror
+Colum 3-5: 3D coordinate intersection laser beam with detection plane
